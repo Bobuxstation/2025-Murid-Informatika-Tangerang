@@ -2,7 +2,6 @@ async function getSubjectsSummary(m) {
     const response = await fetch('../' + m);
     const data = await response.json();
 
-    console.log(data)
     data.content.forEach(item => {
         const heading = document.createElement('h1');
         heading.innerHTML = item.heading;
@@ -63,13 +62,21 @@ async function getSubjectsSummary(m) {
             } else {
                 const correctOption = document.querySelector(`input[name="${item.question}"][value="${item.answer}"]`);
                 const correctLabel = correctOption.nextElementSibling;
-                console.log(correctLabel)
                 correctLabel.style.textDecoration = 'underline';
             }
         });
 
+        submitButton.style.display = 'none';
+        const infoButton = document.createElement('button');
+        document.getElementById('kanan').appendChild(infoButton);
+
         if (score === data.quiz.length) {
+            infoButton.innerHTML = 'All Correct! Click here to return to the main page.';
+            infoButton.onclick = () => window.location.href = '../index.html';
             startConfetti();
+        } else {
+            infoButton.innerHTML = `You got ${score} out of ${data.quiz.length}, click here to try again.`;
+            infoButton.onclick = () => window.location.reload()
         }
     };
     document.getElementById('kanan').appendChild(submitButton);

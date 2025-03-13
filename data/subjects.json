@@ -29,10 +29,10 @@
             "json": "data/mwwar.json"
         }
     ],
-    "Model UN": [
+    "Model United Nation": [
         {
             "name": "What is a Model United Nation (Or MUN)?",
-            "extra": "& The Procedure Behind It <br>&nbsp&nbspDaffa Haidar Mulyana",
+            "extra": "Daffa Haidar Mulyana",
             "bg": "thumbnails/shutterstock-488226595.webp",
             "json": "data/mun.json"
         }
@@ -50,26 +50,6 @@
             "name": "Basic Idea",
             "extra": "Carl von Clausewitz",
             "bg": "thumbnails/IMG_2714.jpg",
-            "json": ""
-        }
-    ],
-    "UI/UX Design": [
-        {
-            "name": "Fonts",
-            "extra": "Carl von Clausewitz",
-            "bg": "thumbnails/The-Right-Home-Music.jpg",
-            "json": ""
-        },
-        {
-            "name": "Fonts",
-            "extra": "Carl von Clausewitz",
-            "bg": "thumbnails/The-Right-Home-Music.jpg",
-            "json": ""
-        },
-        {
-            "name": "Fonts",
-            "extra": "Carl von Clausewitz",
-            "bg": "thumbnails/The-Right-Home-Music.jpg",
             "json": ""
         }
     ],
