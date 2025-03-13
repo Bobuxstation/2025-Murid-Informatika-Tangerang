@@ -40,7 +40,7 @@ async function getSubjectsSummary(m) {
 
             const label = document.createElement('label');
             label.htmlFor = radio;
-            label.id = `LABELFOR-${option}`;
+            label.id = `LABELFOR-${item.question}`;
             label.innerHTML = '&nbsp;' + option;
             document.getElementById('kanan').appendChild(label);
 
@@ -61,9 +61,10 @@ async function getSubjectsSummary(m) {
             if (selectedOption && parseInt(selectedOption.value) === item.answer) {
                 score++;
             } else {
-                const correctOption = document.getElementById("LABELFOR-" + item.options[item.answer]);
-                console.log(correctOption)
-                correctOption.style.textDecoration = 'underline';
+                const correctOption = document.querySelector(`input[name="${item.question}"][value="${item.answer}"]`);
+                const correctLabel = correctOption.nextElementSibling;
+                console.log(correctLabel)
+                correctLabel.style.textDecoration = 'underline';
             }
         });
 
