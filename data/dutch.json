@@ -1,0 +1,29 @@
+{
+    "materialTitle": "Words That Are Similar To their English Counterpart",
+    "banner": "URL_TO_IMAGE",
+    "content": [
+        {
+            "heading": "Why is Dutch so similar to English in the  first place?",
+            "content": "Now, being relatively far away from an English speaking country, & being surrounded by countries that speaks Germans, you might think that, if it's at all similar to other language, Dutch will be very similar to German. & While there's some truths to that, you's be surprised to know how similar is Dutch to English. They share countless words & have a similar grammar structure. But why? Well... for one, they both belong to the same West Germanic Branch of the Indo-European Language Family. They also share a common anscestor called 'Proto-Germanic'. They also had a closer contact with the Frisians & the Low German speakers after the Anglo-Saxon settlement of Britain. This, again, really influenced the language in the area, even to this day. ",
+            "illustration": false
+        },
+        {
+            "heading": "Words that are similar to English",
+            "content": "Now, we've been talking about the  history & the reason on why both language are so similar, but what are some examples? Well, to start, dog, or the synonym to be more specific, hound, has a Dutch counterpart, which is hond. Another example is meat! Or again, it's synonym, 'flesh', which, in Dutch, is called 'vlees'. Moreover, 'dier', despite being simialr to the word 'deer', actually just means animals in general. This is because the 'deer' used to just mean any animals in general too in english. Water is the exact same too, just pronounced differently. And there's still an extraordinary amount of words that we can cover, but last thing we'll mention is milk & egg, which got spelled as 'melk' & 'ei' especially. "
+            ,
+            "illustration": false
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Which branch of the Indo-European language family does English & Dutch belong to?",
+            "options": ["West-Germanic", "Balto-Slavic", "Indo-Iranian", "Armenian"],
+            "answer": 0
+        },
+        {
+            "question": "When did the Dutch started to have close contact with the English speaking & the Low-Germanic speaking people?",
+            "options": ["Before the Anglo-Saxon settlement of Britain", "After the Anglo-Saxon settlement of Britain", "After the Indo-European settlement of Britain", "Before the Indo-European settlement of Britain"],
+            "answer": 1
+        }
+    ]
+}

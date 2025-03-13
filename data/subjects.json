@@ -2,7 +2,7 @@
     "IT: Algorithms": [
         {
             "name": "Algorithms",
-            "extra": "MIT",
+            "extra": "Azka Hamidzan Fausta",
             "bg": "thumbnails/color-flowchart-simple.jpg",
             "json": "data/algoritme.json"
         }
@@ -10,21 +10,21 @@
     "Math: Series": [
         {
             "name": "Arithmetic & Geometric Progression",
-            "extra": "MIT",
+            "extra": "Azka Hamidzan Fausta",
             "bg": "thumbnails/2-min-1.png",
-            "json": ""
+            "json": "data/math.json"
         }
     ],
     "War Strategy": [
         {
             "name": "Basics of War",
-            "extra": "Carl von Clausewitz",
+            "extra": "Azka Hamidzan Fausta",
             "bg": "thumbnails/Defense.gov_News_Photo_970417-F-7719S-101.jpg",
             "json": "data/basicwar.json"
         },
         {
             "name": "Clausewitz's Theories in Modern Warfare",
-            "extra": "Carl von Clausewitz",
+            "extra": "Azka Hamidzan Fausta",
             "bg": "thumbnails/Defense.gov_News_Photo_970417-F-7719S-101.jpg",
             "json": "data/mwwar.json"
         }
@@ -32,17 +32,17 @@
     "Model UN": [
         {
             "name": "What is a Model United Nation (Or MUN)?",
-            "extra": "& The Procedure Behind It",
+            "extra": "& The Procedure Behind It <br>&nbsp&nbspDaffa Haidar Mulyana",
             "bg": "thumbnails/shutterstock-488226595.webp",
             "json": "data/mun.json"
         }
     ],
     "Dutch": [
         {
-            "name": "Basic Greetings",
-            "extra": "Carl von Clausewitz",
+            "name": "Dutch similarities to English",
+            "extra": "Daffa Haidar Mulyana",
             "bg": "thumbnails/634d7db866cd05001ec2685e.jpg",
-            "json": ""
+            "json": "data/dutch.json"
         }
     ],
     "Toki Pona": [

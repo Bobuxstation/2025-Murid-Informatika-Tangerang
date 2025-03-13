@@ -1,0 +1,28 @@
+{
+    "materialTitle": "Arithmetic & Geometric Progression",
+    "banner": "URL_TO_IMAGE",
+    "content": [
+        {
+            "heading": "Arithmetic Progression",
+            "content": "An arithmetic progression is a sequence of numbers in which the difference of any two successive members is a constant called the common difference. The general form of an arithmetic sequence is: a, a + d, a + 2d, a + 3d, ... where a is the first term and d is the common difference. <br>The key formulas of Arithemtic Progression are: <br>1. nth term of an AP: a + (n-1)d <br>2. Sum of first n terms of an AP: n/2[2a + (n-1)d]",
+            "illustration": false
+        },
+        {
+            "heading": "Geometric Progression",
+            "content": "A geometric progression is a sequence of numbers in which the ratio of any two successive members is a constant called the common ratio. The general form of a geometric sequence is: a, ar, ar^2, ar^3, ... where a is the first term and r is the common ratio. <br>The key formulas of Geometric Progression are: <br>1. nth term of a GP: ar^(n-1) <br>2. Sum of first n terms of a GP: a(r^n - 1)/(r - 1)",
+            "illustration": false
+        }
+    ],
+    "quiz": [
+        {
+            "question": "What is formula for the nth term of an Arithmetic Progression?",
+            "options": ["a + nd", "a + d(n-1)", "a + d(n)", "a + (n-1)d"],
+            "answer": 3
+        },
+        {
+            "question": "What is the formula for the sum of the n terms of a Geometric Progression?",
+            "options": ["a(r^n - 1)", "a(r^n - 1)/(r - 1)", "a(r - 1)", "a(r - 1)^n"],
+            "answer": 1
+        }
+    ]
+}
