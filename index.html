@@ -66,13 +66,15 @@
         <br>
         <h1>SUPPORT OUR CAUSE</h1>
         <br>
-        <input type="number" id="donation" placeholder="Enter Amount">
-        <button onclick="donate()">Donate</button>
+        <p>If you're interested in supporting our cause, you can donate to us by clicking the button below. We would
+            truly appreciate any amount you can give us, as it will help us to keep this website running & to host many
+            future events for charity. Thank you for your support!
+        </p>
         <br>
-        <br>
-        <h1>OUR TEAM</h1>
-        <br>
-        
+        <div class="donationscontainer">
+            <input type="number" id="donation" placeholder="Enter Amount">
+            <button onclick="this.parentElement.innerHTML = '<i>This is just a concept :)</i>'">Donate</button>
+        </div>
     </section>
     <footer>
         &copy; 2025 Murid Informatika Tangerang

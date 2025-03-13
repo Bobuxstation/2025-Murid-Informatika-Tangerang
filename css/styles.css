@@ -58,7 +58,7 @@
 
 button {
     border: none;
-    border-radius: 10px;
+    border-radius: 11px;
 }
 
 body {
@@ -162,10 +162,6 @@ li a {
     text-align: center;
     padding: 8px;
     text-decoration: none;
-}
-
-li a:hover {
-    background-color: #1d1d1d;
 }
 
 .text {
@@ -282,7 +278,7 @@ input[type=radio] {
     text-align: center;
 }
 
-.sticky button, #kanan button {
+.sticky button, #kanan button, .donationscontainer button {
     padding: 15px;
     cursor: pointer;
     background: #1d1d1d;
@@ -336,6 +332,16 @@ canvas {
     .subchapter span {
         font-size: 12px;
     }
+
+    .donationscontainer input {
+        width: 100% !important;
+    }
+
+    .donationscontainer button {
+        width: 100% !important;
+        margin-left: 0 !important;
+        margin-top: 20px;
+    }
 }
 
 .nomargintop {
@@ -344,4 +350,19 @@ canvas {
 
 .nopaddingbottom {
     padding-bottom: 0 !important;
+}
+
+.donationscontainer {
+    width: 100%;
+}
+
+.donationscontainer input {
+    width: 80%;
+    float: left;
+}
+
+.donationscontainer button {
+    width: calc(20% - 10px);
+    padding: 8px;
+    margin-left: 10px;
 }
