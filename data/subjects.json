@@ -47,18 +47,10 @@
     ],
     "Toki Pona": [
         {
-            "name": "Basic Idea",
-            "extra": "Carl von Clausewitz",
+            "name": "Basics of Toki Pona",
+            "extra": "Daffa Haidar Mulyana",
             "bg": "thumbnails/IMG_2714.jpg",
-            "json": ""
-        }
-    ],
-    "Artificial Intelligence": [
-        {
-            "name": "The basics on how it works",
-            "extra": "Carl von Clausewitz",
-            "bg": "thumbnails/images.jpg",
-            "json": ""
+            "json": "data/Toki_Pona.json"
         }
     ]
 }

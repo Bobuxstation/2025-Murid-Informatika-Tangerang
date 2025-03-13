@@ -5,7 +5,7 @@
         {
             "heading": "What is Toki Pona?",
             "content": "Toki Pona (which means ''Good Language'' in English), is a constructed language that's published in 2001 by a Canadian linguist Sonja Lang. Unlike other language, Toki Pona is an extremely small language, with only having 14 sounds & ~140 words. The mission of this language is to be as minimalist as possible, & to be designed so that it can break down complex subjects into their essential components, making it, very straight to the point, giving it the ability to describe almost anything in it's language. Ever since it's publication, Toki Pona has been one of the biggest con-lang aprt from Esperanto, which Toki Pona is going to beat in popularity in the near future. ",
-            "illustration": "URL_TO_IMAGE"
+            "illustration": false
         },
         {
             "heading": "How it works (basically)",
@@ -15,19 +15,19 @@
         {
             "heading": "Grammar structure",
             "content": "While the way you describe soemthing is pretty much up to you, the grammar is a different story. It follows something that I'd like to call an SVO, which is a short for Subject-Verb-Object. This is the order of words you'll be using in toki pona. So for example, the word 'Soweli Musi' means 'fun animal', but when translated literally, it's 'animal fun', because the subject will go first, then the verb. If a sentence have a predicate however (which will occupy the same space as it's verb (duh)), we must seperate it, and the subject, with 'li', which act as every single predicate there is. So for example, the word 'the bird is eating fish' translates to 'waso li moku e kala', with 'li' acting as the word 'is'. This however, does not exist if firt/second-person pronouns are used alone as the subjects. Now if you notice, I put 'waso li moku e kala' & not 'waso li moku kala', this is because, when there's direct objects, you need to put 'e' before it, effectively seperating it from the verb phrase. Both 'li' & 'e' can be use multiple times to convey the meaning of '&', you use 'li' for the '&' of verbs (ona li jan misikeke li jan alasa/They are a doctor & hunter). & use 'e' for the '&' of an object (soweli li alasa e moku e telo/animals search for food & water). For subjects however, you'd use 'en' to convey '&' instead of the two (waso en akesi li pona/birds & reptiles are good)  ",
-            "illustration": 
-    }
+            "illustration": false
+        }
     ],
     "quiz": [
         {
             "question": "Refer to this website: https://lipu-sona.pona.la/en/dictionary/, & translate these word: 'Ona li pona ",
             "options": ["They are good", "You are good", "I am good"],
-            "answer": "They are good"
+            "answer": 0
         },
         {
             "question": "Translate this: 'The reptile & the animal is drinking water",
             "options": ["Akesi soweli li moku e telo", "Akesi en sowel moku e telo", "Soweli akesi moku telo", "Akesi en soweli li moku e telo"],
-            "answer": "Akesi en soweli li moku e telo"
+            "answer": 3
         }
     ]
 }
