@@ -1,0 +1,72 @@
+{
+    "IT: Algorithms": [
+        {
+            "name": "Algorithms",
+            "extra": "MIT",
+            "bg": "thumbnails/color-flowchart-simple.jpg",
+            "json": "data/algoritme.json"
+        }
+    ],
+    "Math: Series": [
+        {
+            "name": "Arithmetic & Geometric Progression",
+            "extra": "MIT",
+            "bg": "thumbnails/2-min-1.png",
+            "json": ""
+        }
+    ],
+    "War Strategy": [
+        {
+            "name": "Basics of War",
+            "extra": "Carl von Clausewitz",
+            "bg": "thumbnails/Defense.gov_News_Photo_970417-F-7719S-101.jpg",
+            "json": "data/basicwar.json"
+        },
+        {
+            "name": "Clausewitz's Theories in Modern Warfare",
+            "extra": "Carl von Clausewitz",
+            "bg": "thumbnails/Defense.gov_News_Photo_970417-F-7719S-101.jpg",
+            "json": "data/mwwar.json"
+        }
+    ],
+    "Model UN": [
+        {
+            "name": "What is a Model United Nation (Or MUN)?",
+            "extra": "& The Procedure Behind It",
+            "bg": "thumbnails/shutterstock-488226595.webp",
+            "json": "data/mun.json"
+        }
+    ],
+    "Dutch": [
+        {
+            "name": "Basic Greetings",
+            "extra": "Carl von Clausewitz",
+            "bg": "thumbnails/634d7db866cd05001ec2685e.jpg",
+            "json": ""
+        }
+    ],
+    "Toki Pona": [
+        {
+            "name": "Basic Idea",
+            "extra": "Carl von Clausewitz",
+            "bg": "thumbnails/IMG_2714.jpg",
+            "json": ""
+        }
+    ],
+    "UI/UX Design": [
+        {
+            "name": "Fonts",
+            "extra": "Carl von Clausewitz",
+            "bg": "thumbnails/The-Right-Home-Music.jpg",
+            "json": ""
+        }
+    ],
+    "Artificial Intelligence": [
+        {
+            "name": "The basics on how it works",
+            "extra": "Carl von Clausewitz",
+            "bg": "thumbnails/images.jpg",
+            "json": ""
+        }
+    ]
+}

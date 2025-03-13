@@ -1,0 +1,53 @@
+{
+    "materialTitle": "Basics of IT Algorithms",
+    "banner": "URL_TO_IMAGE",
+    "content": [
+        {
+            "heading": "Algorithm",
+            "content": "An algorithm is a set of instructions designed to perform a specific task. This can be a simple process, such as multiplying two numbers, or a complex operation, such as sorting a list of items. Algorithms are used in computer science to solve problems and perform tasks efficiently.  Before writing an algorithm, it is usual that you write them in the form of a flowchart or a pseudocode.",
+            "illustration": false 
+        },
+        {
+            "heading": "Flowchart",
+            "content": "A flowchart is a diagram that uses specific shapes and arrow to produce an algorithm. It is a visual representation of a process or algorithm. Flowcharts are used in designing algorithms, documenting processes, and managing workflows. <br>Flowcharts usually take on a specific structure, always started and ended by START and STOP signal in the form of an oval shape. The process—divisions and other operations—is represented by a rectangle, decision-making by a diamond, and input/output by a parallelogram.",
+            "illustration": "thumbnails/flowchart.png" 
+        },
+        {
+            "heading": "Pseudocode",
+            "content": "Pseudocode is a detailed yet readable description of what a computer program or algorithm must do, expressed in a formally-styled natural language rather than in a programming language. Pseudocode is used to plan out the structure of a program before writing the actual code. It is a useful tool for programmers to help them understand the logic of a program and plan out the steps needed to solve a problem.",
+            "illustration": false
+        }
+    ],
+    "quiz": [
+        {
+            "question": "What is an algorithm?",
+            "options": [
+                "A set of instructions designed to perform a specific task",
+                "A set of instructions designed to perform a random task",
+                "A set of instructions designed to perform a complex task",
+                "A set of instructions designed to perform a simple task"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "What is a flowchart?",
+            "options": [
+                "A diagram that uses specific shapes and arrow to produce an algorithm",
+                "A diagram that uses specific shapes and arrow to produce a pseudocode",
+                "A diagram that uses specific shapes and arrow to produce a program",
+                "A diagram that uses specific shapes and arrow to produce a code"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "What is pseudocode?",
+            "options": [
+                "A programming language",
+                "A visual representation of a process",
+                "A readable description of an algorithm",
+                "A type of flowchart"
+            ],
+            "answer": 2
+        }
+    ]
+}

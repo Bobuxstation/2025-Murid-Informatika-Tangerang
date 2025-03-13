@@ -1,0 +1,48 @@
+{
+    "materialTitle": "Example 1",
+    "banner": "URL_TO_IMAGE",
+    "content": [
+        {
+            "heading": "What is a Model United Nation (Or MUN)? & The Procedure Behind It",
+            "content": "MUN (or Model United Nation) is an educational simulation where students act as the representative of the various countries in the United Nation. First held at Oxford University in November 1921 (Please refer to the picture below),the participants are encouraged to actively engage in debates, negotiating resolutions, & learning about international relations, while trying to solve global issues.",
+            "illustration": "First ever MUN"
+        },
+        {
+            "Heading": "What're you doin in MUN",
+            "content": "In most MUN, each participants will be assigned a country, & their committee. Each committee will have their own conference,with their own topics. The committees are based off of the committees in MUN (I.e. UNESCO(education), WHO(Health & Medicine), ILO (Human Rights in Labour Enviroment)), & the participants are expected to form a solution to said issues. Each participants then chose how important this topic is to their country. & They have to follow the opinions & stance of their country. They are then permitted to debate, compromise, & negotiate a solution to solve said issue, which can go south very quickly. After all is said & done, they are told to make a resoltuion paper, which contained the outcome of the MUN, & what solutions they came up with. Each countries don't write this however, as they are told to teamwork with the allies they made along the way. Though there are instances where a country decide on writing this paper alone.",
+            "illustration": false
+        }
+    ],
+    "quiz": [
+        {
+            "question": "When was MUN first held?",
+            "options": [
+                "September 1921",
+                "November 1921",
+                "September 1922",
+                "November 1922"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which one of this statement is INCORRECT about MUN?",
+            "options": [
+                "Participants are encouraged to write their position papers all by themselves",
+                "Each committees are essentially their own MUN meetings",
+                "The first MUN was held at Oxford University",
+                "Debates are one of the most essential thing in MUN"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "What does the committee 'ILO' specialise in?",
+            "options": [
+                "Education",
+                "Human rights in labour enviroment",
+                "Health & medicine",
+                "Enviroment"
+            ],
+            "answer": 1
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "materialTitle": "Basics of War by Carl von Clausewitz",
+    "banner": "URL_TO_IMAGE",
+    "content": [
+        {
+            "heading": "War Strategy",
+            "content": "War is defined by an act of armed conflict between two or more parties organized under a certain command structure. In order to lead a war, it is critical to grasp the concepts mentioned by Carl von Clausewitz in his book “On War”.",
+            "illustration": false 
+        },
+        {
+            "heading": "1. War as an Extension of Politics",
+            "content": "War is described as an extension of politics by Clausewitz who famously mentioned that war is simply a continuation of politics. This meant that war is not an isolated act but rather a tool used by states to achieve political ambitions.",
+            "illustration": false 
+        },
+        {
+            "heading": "2. The Trinity of War",
+            "content": "In war, 3 major factors come into play: <br>1. The People (passion, emotion and will) <br>2. The Army & Commanders (skill, strategy and chance) <br>3. The Government (rational political goals) <br>These factors interact with each other dynamically, making the nature of war itself unpredictable.",
+            "illustration": false
+        },
+        {
+            "heading": "3. Friction in War",
+            "content": "War is inherently unpredictable due to unforeseen obstacles, mistakes and uncertainties. <br>He described this unpredictability as “friction”, which draws a fine line between real war and theoretical plans.",
+            "illustration": false
+        },
+        {
+            "heading": "4. The Fog of War",
+            "content": "This uncertainty in war forced commanders to take actions with significant uncertainty, this meant that perfect planning is impossible making adaptability and intuition the key to a professional military leadership.",
+            "illustration": false
+        },
+        {
+            "heading": "5. Centre of Gravity",
+            "content": "Clausewitz described an enemy’s crucial source of strength as a ‘centre of gravity’. This centre of gravity could be alliances, industry or any other key components that the enemy can leverage to their advantage. <br>Destroying an enemy’s centre of gravity would cripple their fighting capabilities and could result in their defeat.",
+            "illustration": false
+        },
+        {
+            "heading": "6. Absolute War vs. Real War",
+            "content": "Absolute War is a theoretical concept where war is fought without limits. <br>In practice real war is usually constrained by politics and resources. <br>Clausewitz argued that the goal of war is to disarm the enemy, not to destroy them.",
+            "illustration": false
+        },
+        {
+            "heading": "7. Defense vs. Offense",
+            "content": "Clausewitz argued that defense is the stronger form of war, as it is easier to defend than to attack. <br>However, he also emphasized that defense is passive and can only be used to counterattack, while offense is active and can be used to seize the initiative.",
+            "illustration": false
+        },
+        {
+            "heading": "8. The Culmination Point",
+            "content": "The culmination point is the point in a battle where the attacker’s momentum is exhausted and the defender’s counterattack begins. <br>Clausewitz argued that the attacker should stop before reaching the culmination point to avoid being counterattacked.",
+            "illustration": false
+        },
+        {
+            "heading": "9. Limited War vs. Total War",
+            "content": "Clausewitz argued that war can be limited or total. <br>While limited war is fought with political goals in mind, total war is fought with the goal of destroying the enemy. <br>He argued that limited war is more common than total war.",
+            "illustration": false
+        }
+    ],
+    "quiz": [
+        {
+            "question": "What to do when you reach the Culmination Point in a battle?",
+            "options": [
+                "Keep attacking",
+                "Stop attacking",
+                "Defend",
+                "Retreat"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which concept of Clausewitz describes the enemy's crucial source of strength?",
+            "options": [
+                "Friction",
+                "Fog of War",
+                "Centre of Gravity",
+                "Trinity of War"
+            ],
+            "answer": 2
+        }
+    ]
+}
